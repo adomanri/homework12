@@ -1,0 +1,22 @@
+{
+	"folders": [
+		{
+			"path": "../SN2"
+		},
+		{
+			"path": "../../../../OpenServer"
+		},
+		{
+			"path": "."
+		},
+		{
+			"path": "../Новая папка"
+		},
+		{
+			"path": "../test"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "homework11"
+	}
+}

@@ -2,4 +2,88 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    font-family: Calibri;
+}
+.bodi{
+    width: 100%;
+    max-width: 1400px;
+    height: 800px;
+    margin: auto;
+    
+}
+.container1{
+    width: 1400px;
+    height: 600px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 35px;
+}
+.birinchi{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(37, 101, 239);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 25px;
+
+}
+.rasm{
+    display: flex;
+    justify-content: center;
+    padding: 45px;
+}
+.img{
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    border: 3px solid white;
+}
+.matn{
+    width: 300px;
+    height: 200px;
+    background-color: white;
+    text-align: center;
+    opacity: 5px;
+    border-radius: 25px;
+}
+.kok{
+   margin-top: 25px;
+   padding: 10px 35px;
+   border-radius: 10px;
+   background-color:rgb(37, 101, 239) ;
+   color: whitesmoke;
+   box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+   border: none;
+}
+.ikkinchi{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(37, 101, 239);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 25px;
+}
+.uchinchi{
+    width: 300px;
+    height: 400px;
+    background-color: rgb(37, 101, 239);
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border-radius: 25px;
+}
+.tugma{
+    width: 1400px;
+    height: 100px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.batn{
+    padding: 20px 150px;
+    background-color:rgb(37, 101, 239) ;
+    color: whitesmoke;
+    text-decoration: solid;
+    font-size: 40px;
+    font-weight: 50px;
+    border-radius: 20px;
+    box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px;
+    border: none;
 }
